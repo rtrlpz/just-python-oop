@@ -1,8 +1,27 @@
-/13. PasswordManager/passwords.json
-.env
-
-# PyCharm
+# 🐍 Archivos generados por Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.env
+.env
+
+# 🧰 Archivos de configuración de IDEs
 .idea/
+.vscode/
 *.iml
+
+# ⚙️ Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# 📦 Archivos de salida o temporales
+*.log
+*.bak
+*.tmp
+
+
+# 🔐 Archivos sensibles o personales
+passwords.json
+birthdays.csv
+
